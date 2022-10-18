@@ -38,4 +38,4 @@ One part of the stucture appears **brighter**:
 
 <img width="807" alt="3dsinegamebright" src="https://user-images.githubusercontent.com/88428142/196118381-8799a210-13b4-4843-9b7b-2aca21c075a9.png">
 
-
+To run the application, please download Brackets. Download and drag all the files and peform a live preview.
